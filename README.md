@@ -11,3 +11,4 @@
 - [FakeGPS](https://github.com/BlackGhost0051/FakeGPS)
 - [Nephilos](https://github.com/BlackGhost0051/Nephilos)
 - [Phantom](https://github.com/BlackGhost0051/Phantom)
+- [Cyclop](https://github.com/BlackGhost0051/Cyclop)
