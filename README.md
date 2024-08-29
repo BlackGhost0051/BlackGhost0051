@@ -1,4 +1,6 @@
-## Black Ghost
+# 💻 **[Black Ghost]**
+
+## Projects
 
 ### PC
 
@@ -18,9 +20,36 @@
 - [Cyclop](https://github.com/BlackGhost0051/Cyclop)
 
 
+
+
+## 🔧 **Technical skills**
+
+### **Programming languages:** 
+
+| <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="50" height="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="50" height="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="50" height="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="50" height="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50" height="50"/> |
+|:--:|:--:|:--:|:--:|:--:|
+| **C** | **C++** | **Java** | **Python** | **JavaScript** |
+
+
+### **Security tools:** 
+
+| <img src="https://www.kali.org/images/tool-logo-wireshark.svg" width="50" height="50"/> | <img src="https://www.kali.org/images/tool-logo-nmap.svg" width="50" height="50"/> | <img src="https://www.kali.org/images/tool-logo-metasploit.svg" width="50" height="50"/> | <img src="https://www.kali.org/images/tool-logo-maltego.svg" width="50" height="50"/> |
+| :--: | :--: | :--: | :--: |
+| Wireshark | Nmap | Metasploit | Maltego |
+
+
+
+### **Operating systems:**
+
+| <img src="https://www.kali.org/images/kali-logo.svg" width="50" height="50"/> | <img src="https://www.debian.org/Pics/openlogo-50.png" width="50" height="50"/> | <img src="https://assets.ubuntu.com/v1/183c7231-windows_logo.svg" width="50" height="50"/> |
+| :--: | :--: | :--: |
+| Kali Linux | Debian | Windows |
+
+## Statistics
+
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BlackGhost0051&theme=tokyonight"/> 
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BlackGhost0051&theme=tokyonight"/>  
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=BlackGhost0051&theme=tokyonight"/>
 </div>
 
-![1](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BlackGhost0051&theme=transparent)
-![2](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BlackGhost0051&theme=transparent)
