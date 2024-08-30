@@ -20,8 +20,6 @@
 - [Cyclop](https://github.com/BlackGhost0051/Cyclop)
 
 
-
-
 ## 🔧 **Technical skills**
 
 ### **Programming languages:** 
@@ -47,9 +45,9 @@
 
 ## Statistics
 
-<div>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BlackGhost0051&theme=tokyonight"/> 
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BlackGhost0051&theme=tokyonight"/>  
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=BlackGhost0051&theme=tokyonight"/>
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BlackGhost0051&theme=github_dark"/> 
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BlackGhost0051&theme=github_dark"/>  
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=BlackGhost0051&theme=github_dark"/>
 </div>
 
