@@ -29,11 +29,11 @@
 | **C** | **C++** | **Java** | **Python** | **JavaScript** |
 
 
-### **Security tools:** 
+### **Tools:** 
 
-| <img src="https://www.kali.org/images/tool-logo-wireshark.svg" width="50" height="50"/> | <img src="https://www.kali.org/images/tool-logo-nmap.svg" width="50" height="50"/> | <img src="https://www.kali.org/images/tool-logo-metasploit.svg" width="50" height="50"/> | <img src="https://www.kali.org/images/tool-logo-maltego.svg" width="50" height="50"/> |
-| :--: | :--: | :--: | :--: |
-| Wireshark | Nmap | Metasploit | Maltego |
+| <img src="https://www.kali.org/images/tool-logo-wireshark.svg" width="50" height="50"/> | <img src="https://www.kali.org/images/tool-logo-nmap.svg" width="50" height="50"/> | <img src="https://www.kali.org/images/tool-logo-metasploit.svg" width="50" height="50"/> | <img src="https://www.kali.org/images/tool-logo-maltego.svg" width="50" height="50"/>| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Ghidra_logo.svg/120px-Ghidra_logo.svg.png" width="50" height="50"/> |
+| :--: | :--: | :--: | :--: | :--: |
+| Wireshark | Nmap | Metasploit | Maltego | Ghidra |
 
 
 
