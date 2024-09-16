@@ -12,6 +12,10 @@
 - [OSINT](https://github.com/BlackGhost0051/OSINT)
 - [HackRF-One](https://github.com/BlackGhost0051/HackRF-One)
 
+### Web
+
+- [FastCode](https://github.com/BlackGhost0051/FastCode)
+
 ### Android
 
 - [FakeGPS](https://github.com/BlackGhost0051/FakeGPS)
