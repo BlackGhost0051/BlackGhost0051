@@ -24,6 +24,7 @@ Friendly character.
 ### Web
 
 - [FastCode](https://github.com/BlackGhost0051/FastCode)
+- [QuickCV](https://github.com/BlackGhost0051/QuickCV)
 
 ### Android
 
