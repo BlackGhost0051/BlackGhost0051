@@ -50,6 +50,12 @@ Friendly character.
 |:--:|:--:|
 | Flask | Spring |
 
+### **Databases:**
+
+|<img src="https://www.sqlite.org/images/sqlite370_banner.svg" width="50" height="50"/>|<img src="https://www.postgresql.org/media/img/about/press/elephant.png" width="50" height="50"/>|<img src="https://www.mongodb.com/assets/images/global/favicon.ico" width="50" height="50"/>|
+| :--: | :--: | :--: |
+| SQLite | PostgreSQL | MangoDB |
+
 ### **Security Tools:** 
 
 | <img src="https://www.kali.org/images/tool-logo-wireshark.svg" width="50" height="50"/> | <img src="https://www.kali.org/tools/burpsuite/images/burpsuite-logo.svg" width="50" height="50"/> | <img src="https://www.kali.org/images/tool-logo-nmap.svg" width="50" height="50"/> | <img src="https://www.kali.org/images/tool-logo-metasploit.svg" width="50" height="50"/> | <img src="https://www.kali.org/images/tool-logo-maltego.svg" width="50" height="50"/>| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Ghidra_logo.svg/120px-Ghidra_logo.svg.png" width="50" height="50"/> | <img src="https://www.kali.org/tools/recon-ng/images/recon-ng-logo.svg" width="50" height="50"/> |
