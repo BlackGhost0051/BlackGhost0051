@@ -39,16 +39,16 @@ Friendly character.
 
 ### **Programming languages:** 
 
-| <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="50" height="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="50" height="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="50" height="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="50" height="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50" height="50"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Typescript.svg" width="50" height="50"/> |
-|:--:|:--:|:--:|:--:|:--:|:--:|
-| **C** | **C++** | **Java** | **Python** | **JavaScript** | **TypeScript**|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="50" height="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="50" height="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="50" height="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="50" height="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50" height="50"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Typescript.svg" width="50" height="50"/> |1|2|3|
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| **C** | **C++** | **Java** | **Python** | **JavaScript** | **TypeScript**| **GDScript** | **Kotlin** | **C#** |
 
 
 ### **Frameworks:**
 
-|<img src="https://flask.palletsprojects.com/en/stable/_static/flask-vertical.png" width="50" height="50"/>| <img src="https://spring.io/favicon.svg?v=96334d577af708644f6f0495dd1c7bc8" width="50" height="50"/> |
-|:--:|:--:|
-| Flask | Spring |
+|<img src="https://flask.palletsprojects.com/en/stable/_static/flask-vertical.png" width="50" height="50"/>| <img src="https://spring.io/favicon.svg?v=96334d577af708644f6f0495dd1c7bc8" width="50" height="50"/> | 1 |
+|:--:|:--:|:--:|
+| Flask | Spring | wxWidgets |
 
 ### **Databases:**
 
