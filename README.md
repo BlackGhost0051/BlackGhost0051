@@ -29,9 +29,10 @@ Friendly character.
 
 ### Android
 
-- [FakeGPS](https://github.com/BlackGhost0051/FakeGPS)
 - [Nephilos](https://github.com/BlackGhost0051/Nephilos)
 - [Phantom](https://github.com/BlackGhost0051/Phantom)
+- [FakeGPS](https://github.com/BlackGhost0051/FakeGPS)
+- [Bloom](https://github.com/BlackGhost0051/Bloom)
 - [Cyclop](https://github.com/BlackGhost0051/Cyclop)
 
 
