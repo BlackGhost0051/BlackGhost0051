@@ -79,8 +79,15 @@ Friendly character.
 ## Statistics
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BlackGhost0051&theme=github_dark"/> 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BlackGhost0051&theme=github_dark"/>  
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=BlackGhost0051&theme=github_dark"/>
+  <div style="width: 90ex">
+    <img style="height: 30ex" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlackGhost0051&layout=compact&theme=github_dark&langs_count=30">
+    <img style="height: 30ex" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=BlackGhost0051&theme=github_dark"/>
+  </div>
+  
+
+
+  <img style="width: 90ex" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BlackGhost0051&theme=github_dark"/>
+
+  <img style="width: 90ex" src="https://github-profile-trophy.vercel.app/?username=BlackGhost0051&theme=radical&no-frame=true&margin-w=5"/>  
 </div>
 
