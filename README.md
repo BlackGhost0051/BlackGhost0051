@@ -1,3 +1,6 @@
+<div align="center">
+<div style="width: 90ex">
+
 # 💻 **Black Ghost**
 
 ```
@@ -10,30 +13,17 @@ Friendly character.
 ```
 ## Projects
 
-### PC
+| 🖥️ PC | 🌐 Web | 📱 Android |
+|-------|--------|------------|
+| [Malware](https://github.com/BlackGhost0051/Malware) | [FastCode](https://github.com/BlackGhost0051/FastCode) | [Nephilos](https://github.com/BlackGhost0051/Nephilos) |
+| [Cryptography](https://github.com/BlackGhost0051/Cryptography) | [QuickCV](https://github.com/BlackGhost0051/QuickCV) | [Phantom](https://github.com/BlackGhost0051/Phantom) |
+| [Steganography](https://github.com/BlackGhost0051/Steganography) | [VCloud](https://github.com/BlackGhost0051/VCloud) | [FakeGPS](https://github.com/BlackGhost0051/FakeGPS) |
+| [Brute-force](https://github.com/BlackGhost0051/Brute-force) |        | [Bloom](https://github.com/BlackGhost0051/Bloom) |
+| [Electronics](https://github.com/BlackGhost0051/Electronics) |        | [Cyclop](https://github.com/BlackGhost0051/Cyclop) |
+| [OSINT](https://github.com/BlackGhost0051/OSINT) |        |        |
+| [Social-Engineering](https://github.com/BlackGhost0051/Social-Engineering) |        |        |
+| [HackRF-One](https://github.com/BlackGhost0051/HackRF-One) |        |        |
 
-- [Malware](https://github.com/BlackGhost0051/Malware)
-- [Cryptography](https://github.com/BlackGhost0051/Cryptography)
-- [Steganography](https://github.com/BlackGhost0051/Steganography)
-- [Brute-force](https://github.com/BlackGhost0051/Brute-force)
-- [Electronics](https://github.com/BlackGhost0051/Electronics)
-- [OSINT](https://github.com/BlackGhost0051/OSINT)
-- [Social-Engineering](https://github.com/BlackGhost0051/Social-Engineering)
-- [HackRF-One](https://github.com/BlackGhost0051/HackRF-One)
-
-### Web
-
-- [FastCode](https://github.com/BlackGhost0051/FastCode)
-- [QuickCV](https://github.com/BlackGhost0051/QuickCV)
-- [VCloud](https://github.com/BlackGhost0051/VCloud)
-
-### Android
-
-- [Nephilos](https://github.com/BlackGhost0051/Nephilos)
-- [Phantom](https://github.com/BlackGhost0051/Phantom)
-- [FakeGPS](https://github.com/BlackGhost0051/FakeGPS)
-- [Bloom](https://github.com/BlackGhost0051/Bloom)
-- [Cyclop](https://github.com/BlackGhost0051/Cyclop)
 
 
 ## 🔧 **Technical skills**
@@ -77,6 +67,11 @@ Friendly character.
 | Kali Linux | Debian | Windows |
 
 ## Statistics
+
+
+</div>
+</div>
+
 
 <div align="center">
   <div style="width: 90ex">
