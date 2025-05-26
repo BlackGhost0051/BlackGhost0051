@@ -11,7 +11,7 @@ Debugged with Eniki.
 For nice code is ready for anything. 
 Friendly character.
 ```
-## Projects
+## 📁 Projects
 
 | 🖥️ PC | 🌐 Web | 📱 Android |
 |-------|--------|------------|
@@ -66,7 +66,7 @@ Friendly character.
 | :--: | :--: | :--: |
 | Kali Linux | Debian | Windows |
 
-## Statistics
+## 📊 Statistics
 
 
 </div>
