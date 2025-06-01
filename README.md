@@ -18,7 +18,7 @@ Friendly character.
 | [Malware](https://github.com/BlackGhost0051/Malware) | [FastCode](https://github.com/BlackGhost0051/FastCode) | [Nephilos](https://github.com/BlackGhost0051/Nephilos) |
 | [Cryptography](https://github.com/BlackGhost0051/Cryptography) | [QuickCV](https://github.com/BlackGhost0051/QuickCV) | [Phantom](https://github.com/BlackGhost0051/Phantom) |
 | [Steganography](https://github.com/BlackGhost0051/Steganography) | [VCloud](https://github.com/BlackGhost0051/VCloud) | [FakeGPS](https://github.com/BlackGhost0051/FakeGPS) |
-| [Brute-force](https://github.com/BlackGhost0051/Brute-force) |        | [Bloom](https://github.com/BlackGhost0051/Bloom) |
+| [Brute-force](https://github.com/BlackGhost0051/Brute-force) | [ByteBlog](https://github.com/BlackGhost0051/ByteBlog)  | [Bloom](https://github.com/BlackGhost0051/Bloom) |
 | [Electronics](https://github.com/BlackGhost0051/Electronics) |        | [Cyclop](https://github.com/BlackGhost0051/Cyclop) |
 | [OSINT](https://github.com/BlackGhost0051/OSINT) |        |        |
 | [Social-Engineering](https://github.com/BlackGhost0051/Social-Engineering) |        |        |
