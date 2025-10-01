@@ -36,7 +36,7 @@ Friendly character.
 
 ### **Frameworks:**
 
-|<img src="https://flask.palletsprojects.com/en/stable/_static/flask-vertical.png" width="50" height="50"/>| <img src="https://spring.io/favicon.svg?v=96334d577af708644f6f0495dd1c7bc8" width="50" height="50"/> | <img src="https://wxwidgets.org/assets/ico/favicon.ico" width="50" height="50"/> |    <img src="https://angular.dev/assets/icons/favicon-32x32.png" width="50" height="50"/>     |
+|<img src="https://flask.palletsprojects.com/en/stable/_static/flask-icon.svg" width="50" height="50"/>| <img src="https://spring.io/favicon.svg?v=96334d577af708644f6f0495dd1c7bc8" width="50" height="50"/> | <img src="https://wxwidgets.org/assets/ico/favicon.ico" width="50" height="50"/> |    <img src="https://angular.dev/assets/icons/favicon-32x32.png" width="50" height="50"/>     |
 |:--:|:--:|:--------------------------------------------------------------------------------:|:-------:|
 | Flask | Spring |                                    wxWidgets                                     | Angular |
 
