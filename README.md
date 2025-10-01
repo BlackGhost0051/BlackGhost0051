@@ -61,9 +61,9 @@ Friendly character.
 
 ### **Operating systems:**
 
-| <img src="https://www.kali.org/images/kali-logo.svg" width="50" height="50"/> | <img src="https://www.debian.org/Pics/openlogo-50.png" width="50" height="50"/> | <img src="https://assets.ubuntu.com/v1/183c7231-windows_logo.svg" width="50" height="50"/> |
-| :--: | :--: | :--: |
-| Kali Linux | Debian | Windows |
+| <img src="https://www.kali.org/images/kali-logo.svg" width="50" height="50"/> | <img src="https://www.debian.org/Pics/openlogo-50.png" width="50" height="50"/> | <img src="https://assets.ubuntu.com/v1/183c7231-windows_logo.svg" width="50" height="50"/> | <img src="https://linuxmint.com/web/img/favicon.ico" width="50" height="50"> |
+| :--: | :--: | :--: | :--: |
+| Kali Linux | Debian | Windows | Mint |
 
 ## 📊 Statistics
 
