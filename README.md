@@ -47,7 +47,7 @@ Friendly character.
 | SQLite | PostgreSQL | MangoDB |
 
 ### **Tools:**
-|<img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" width="50" height="50"/>|<img src="https://static-00.iconduck.com/assets.00/wordpress-icon-512x512-pmjhtep2.png" width="50" height="50"/>|
+|<img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" width="50" height="50"/>|<img src="https://djeqr6to3dedg.cloudfront.net/repo-logos/library/wordpress/live/logo-1720462319468.png" width="50" height="50"/>|
 |:------:|:---------:|
 | Docker | WordPress |
 
