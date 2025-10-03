@@ -55,9 +55,9 @@ Friendly character.
 
 ### **Security Tools:** 
 
-| <img src="https://www.kali.org/images/tool-logo-wireshark.svg" width="50" height="50"/> | <img src="https://www.kali.org/tools/burpsuite/images/burpsuite-logo.svg" width="50" height="50"/> | <img src="https://www.kali.org/images/tool-logo-nmap.svg" width="50" height="50"/> | <img src="https://www.kali.org/images/tool-logo-metasploit.svg" width="50" height="50"/> | <img src="https://www.kali.org/images/tool-logo-maltego.svg" width="50" height="50"/>| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Ghidra_logo.svg/120px-Ghidra_logo.svg.png" width="50" height="50"/> | <img src="https://www.kali.org/tools/recon-ng/images/recon-ng-logo.svg" width="50" height="50"/> | <img src="https://www.kali.org/tools/spiderfoot/images/spiderfoot-logo.svg" width="50" height="50"/> | <img src="https://www.kali.org/tools/john/images/john-logo.svg" width="50" height="50"/> |
-| :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
-| Wireshark | Burpsuite | Nmap | Metasploit | Maltego | Ghidra | Recon-ng | Spiderfoot | John |
+| <img src="https://www.kali.org/images/tool-logo-wireshark.svg" width="50" height="50"/> | <img src="https://www.kali.org/tools/burpsuite/images/burpsuite-logo.svg" width="50" height="50"/> | <img src="https://www.kali.org/images/tool-logo-nmap.svg" width="50" height="50"/> | <img src="https://www.kali.org/images/tool-logo-metasploit.svg" width="50" height="50"/> | <img src="https://www.kali.org/images/tool-logo-maltego.svg" width="50" height="50"/>| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Ghidra_logo.svg/120px-Ghidra_logo.svg.png" width="50" height="50"/> | <img src="https://www.kali.org/tools/recon-ng/images/recon-ng-logo.svg" width="50" height="50"/> | <img src="https://www.kali.org/tools/spiderfoot/images/spiderfoot-logo.svg" width="50" height="50"/> | <img src="https://www.kali.org/tools/john/images/john-logo.svg" width="50" height="50"/> | <img src="https://www.kali.org/tools/aircrack-ng/images/aircrack-ng-logo.svg" width="50" height="50"/> |
+| :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
+| Wireshark | Burpsuite | Nmap | Metasploit | Maltego | Ghidra | Recon-ng | Spiderfoot | John | aircrack-ng |
 
 
 
