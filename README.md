@@ -44,9 +44,9 @@ Friendly character.
 
 ### **Databases:**
 
-|<img src="https://www.sqlite.org/images/sqlite370_banner.svg" width="50" height="50"/>|<img src="https://www.postgresql.org/media/img/about/press/elephant.png" width="50" height="50"/>|<img src="https://www.mongodb.com/assets/images/global/favicon.ico" width="50" height="50"/>|
-| :--: | :--: | :--: |
-| SQLite | PostgreSQL | MangoDB |
+|<img src="https://www.sqlite.org/images/sqlite370_banner.svg" width="50" height="50"/>|<img src="https://www.postgresql.org/media/img/about/press/elephant.png" width="50" height="50"/>|<img src="https://www.mongodb.com/assets/images/global/favicon.ico" width="50" height="50"/>| <img src="https://labs.mysql.com/common/themes/sakila/favicon.ico" width="50" height="50"/> |
+| :--: | :--: | :--: | :---: |
+| SQLite | PostgreSQL | MangoDB | MySQL |
 
 ### **Tools:**
 |<img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" width="50" height="50"/>|<img src="https://djeqr6to3dedg.cloudfront.net/repo-logos/library/wordpress/live/logo-1720462319468.png" width="50" height="50"/>|
