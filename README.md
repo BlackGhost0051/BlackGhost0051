@@ -36,9 +36,9 @@ Friendly character.
 | **C** | **C++** | **Java** | **Python** | **JavaScript** |  TypeScript |
 
 
-| <img src="https://www.php.net//images/logos/new-php-logo.svg"  width="50" height="50"/> | <img src="https://godotengine.org/assets/favicon.svg" width="50" height="50"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" width="50" height="50"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/d/d2/C_Sharp_Logo_2023.svg" width="50" height="50" /> | <img src="https://d33wubrfki0l68.cloudfront.net/a1da522d0a3057a1bc3fb411fcbbf57a447c1146/65e71/img/symbol/svg/full_colored_dark.svg" width="50" height="50"/> |
-|:--:|:--:|:--:|:--:| :--: |
-|PHP| GDScript | Kotlin | C# | Bash |
+| <img src="https://www.php.net//images/logos/new-php-logo.svg"  width="50" height="50"/> | <img src="https://godotengine.org/assets/favicon.svg" width="50" height="50"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" width="50" height="50"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/d/d2/C_Sharp_Logo_2023.svg" width="50" height="50" /> | <img src="https://d33wubrfki0l68.cloudfront.net/a1da522d0a3057a1bc3fb411fcbbf57a447c1146/65e71/img/symbol/svg/full_colored_dark.svg" width="50" height="50"/> | <img src="https://sass-lang.com/favicon.ico" height="50" width="50" /> |
+|:--:|:--:|:--:|:--:| :--: | :--: |
+|PHP| GDScript | Kotlin | C# | Bash | Scss |
 
 
 
