@@ -81,6 +81,13 @@ Friendly character.
 | :--: | :--: | :--: | :--: |
 | Kali Linux | Debian | Windows | Mint |
 
+
+## CTF
+
+- [picoCTF](https://play.picoctf.org/users/BlackGhost0051)
+- [hackerlab](https://hackerlab.pro/users/BlackGhost)
+- [ctfLearn](https://ctflearn.com/user/BlackGhost)
+
 ## 📊 Statistics
 
 
