@@ -74,6 +74,10 @@ Friendly character.
 | :--: | :--: | :--: | :--: | :--: | :--: |
 | Recon-ng | Spiderfoot | John | aircrack-ng | Wifite | Dirsearch |
 
+| <img src="https://www.kali.org/tools/dirb/images/dirb-logo.svg"  height="50" widht="50"/> |
+|:--:|
+| Dirb |
+
 
 ### **Operating systems:**
 
