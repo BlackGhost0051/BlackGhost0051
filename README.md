@@ -74,9 +74,9 @@ Friendly character.
 | :--: | :--: | :--: | :--: | :--: | :--: |
 | Recon-ng | Spiderfoot | John | aircrack-ng | Wifite | Dirsearch |
 
-| <img src="https://www.kali.org/tools/dirb/images/dirb-logo.svg"  height="50" width="50"/> | <img src="https://www.kali.org/tools/whatweb/images/whatweb-logo.svg" height="50" width="50"/> | <img src="https://www.kali.org/tools/hash-identifier/images/hash-identifier-logo.svg" width="50" height="50" /> | <img src="https://www.kali.org/tools/theharvester/images/theharvester-logo.svg" height="50" width="50"/> | 
-|:--:| :--: | :--: | :--: |
-| Dirb | Whatweb | Hash-Identifier | theHarvester |
+| <img src="https://www.kali.org/tools/dirb/images/dirb-logo.svg"  height="50" width="50"/> | <img src="https://www.kali.org/tools/whatweb/images/whatweb-logo.svg" height="50" width="50"/> | <img src="https://www.kali.org/tools/hash-identifier/images/hash-identifier-logo.svg" width="50" height="50" /> | <img src="https://www.kali.org/tools/theharvester/images/theharvester-logo.svg" height="50" width="50"/> | <img src="https://www.kali.org/tools/sqlmap/images/sqlmap-logo.svg" height="50" width="50" /> | 
+|:--:| :--: | :--: | :--: | :--: |
+| Dirb | Whatweb | Hash-Identifier | theHarvester | sqlmap |
 
 
 ### **Operating systems:**
