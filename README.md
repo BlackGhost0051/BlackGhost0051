@@ -4,15 +4,6 @@
 <div style="width: 90ex">
 
 
-```
-Also known as the Lord of Debugger Rooms. 
-Master of Code Land. 
-Elite orator and analyst.
-Debugged with Eniki.
-For nice code is ready for anything. 
-Friendly character.
-```
-
 ---
 
 ## 📁 Projects
